@@ -23,7 +23,11 @@ The dataset also includes operating system, browser, region, traffic type, visit
 ## Problem Statement:
 
 Though the rise of E-Commerce tradition over the past few years has created potential in the marketplace, most of the visitors still do not complete their online shopping process due to various reasons. 
+
 This leads the online vendors the need for solutions to prevent the loss of their revenues. 
+
 Based on this information, we have derived two  problem statements, which we aim to address in this project: 
+
 	• The factors that influence the visitor’s intention on the online shopping environment
+	
 	• Machine learning models to predict the likelihood of their revenue generation based on the relevant factors.
