@@ -20,7 +20,7 @@ The value of this attribute is determined by considering the dynamics of e-comme
 The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
 
-##Problem Statement
+## Problem Statement:
 
 Though the rise of E-Commerce tradition over the past few years has created potential in the marketplace, most of the visitors still do not complete their online shopping process due to various reasons. 
 This leads the online vendors the need for solutions to prevent the loss of their revenues. 
